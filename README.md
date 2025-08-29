@@ -1,5 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
+### DATE: 29.08.2025
+### NAME: EZHIL NEVEDHA K
+### REG.NO:212223230055
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +28,9 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1708" height="960" alt="Screenshot 2025-08-29 102310" src="https://github.com/user-attachments/assets/df6ef0bb-5d4d-49cb-af65-f0129960fe7f" />
+
+<img width="1709" height="958" alt="Screenshot 2025-08-29 102320" src="https://github.com/user-attachments/assets/55a486d3-0bb5-4df0-851d-d23659e507a4" />
 
 ### Result:
+Thus, this project has been successfully created and executed using twitter dataset using RapidMiner
